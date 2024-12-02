@@ -99,15 +99,14 @@ cd AdventofCode/2024/Day1
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ibrahimqasmi313/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/muhammadibrahim313)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61560872765839)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naumankhalid773/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/nomi217)
+<!-- [![Website](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61560872765839) -->
 </div>
 
 ## 📚 Helpful Resources
 
 - 🎄 [Advent of Code Official Website](https://adventofcode.com/)
-- 📘 [Jupyter Notebooks Documentation](https://jupyter.org/documentation)
 - 🍴 [GitHub Forking Guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 ## 🤝 How to Participate
