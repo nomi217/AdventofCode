@@ -80,9 +80,9 @@ def parse_mul_instructions(memory):
 # Test cases
 test_cases = [
     # Original example from problem description
-    'xmul(2,4)%&mul[3,7]!@^do_not_mul(5,5)+mul(32,64]then(mul(11,8)mul(8,5))',
+    #'xmul(2,4)%&mul[3,7]!@^do_not_mul(5,5)+mul(32,64]then(mul(11,8)mul(8,5))',
     # New example with do() and don't() instructions
-    'xmul(2,4)&mul[3,7]!^don\'t()_mul(5,5)+mul(32,64](mul(11,8)do()?mul(8,5))'
+    #'xmul(2,4)&mul[3,7]!^don\'t()_mul(5,5)+mul(32,64](mul(11,8)do()?mul(8,5))'
 ]
 
 for i, test_memory in enumerate(test_cases, 1):
