@@ -19,10 +19,10 @@ Hey there! I'm taking on the **Advent of Code 2024 Challenge** - 25 days of codi
 
 ```
 Advent-of-Code-2024/
-├── Day1/
+├── Day01/
 │   ├── Day1.py      
 │   └── input.txt      
-├── Day2/
+├── Day02/
 │   ├── Day2.py
 │   └── input.txt
 ...
@@ -36,7 +36,7 @@ Advent-of-Code-2024/
 git clone https://github.com/nomi217/AdventofCode.git
 
 # Navigate to a day's challenge
-cd AdventofCode/2024/Day1
+cd AdventofCode/2024/Day01
 
 ```
 
@@ -74,9 +74,9 @@ cd AdventofCode/2024/Day1
 
 ## Progress Overview
 
-- ✅ Completed Days: 2/25
-- 🧊 Remaining Days: 23
-- 🏆 Challenge Status: Started
+- ✅ Completed Days: 25/25
+- 🧊 Remaining Days: 25
+- 🏆 Challenge Status: Completed
 
 
 
