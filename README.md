@@ -18,7 +18,7 @@ Hey there! I'm taking on the **Advent of Code 2024 Challenge** - 25 days of codi
 ## 🗂️ Repository Structure
 
 ```
-Advent-of-Code-2024/
+AdventofCode/2024/
 ├── Day01/
 │   ├── Day1.py      
 │   └── input.txt      
